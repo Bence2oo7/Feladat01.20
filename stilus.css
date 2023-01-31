@@ -1,0 +1,23 @@
+html{
+    background-color: #87cefa;
+    color: #00008b;
+    text-align: justify;
+}
+.cim{
+    text-align: center;   
+}
+p{
+    text-align: justify;
+}
+.tablazat{
+    width: 100%;
+}
+.adat{
+    border: 2px solid black;
+}
+.kep{
+    float: right;
+}
+.repulo{
+    border: none;
+}
